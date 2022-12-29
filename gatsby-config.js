@@ -1,10 +1,10 @@
 module.exports = {
   pathPrefix: '/running_page', // Change to `/running_page` when running on github pages
   siteMetadata: {
-    siteTitle: '跑步记录',
+    siteTitle: '跑步',
     siteUrl: 'https://blog.pengfeima.cn',
-    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
-    description: 'Personal site and blog',
+    logo: 'https://githubimages.pengfeima.cn/images/202211261944169.png',
+    description: '个人跑步记录',
     navLinks: [
       {
         name: 'Blog',
